@@ -1,0 +1,50 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-image: url(assests\image\dices\imagesbackground.jpeg);
+  border: #232931 solid 20px;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #010b08;
+  background-color: rgba(188, 190, 194, 0.564);
+  border: #232931 solid 20px;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  background-color: rgba(236, 237, 244, 0.564);
+  border: #232931 solid 20px;
+}
+
+img {
+  width: 80%;
+}
+button{
+
+  text-align: center;
+}
+
+footer {
+  margin-top: 5%;
+  color: #600e0e;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
